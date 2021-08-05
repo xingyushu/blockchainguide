@@ -2,7 +2,8 @@
 
 > 资料获取关注公众号：区块链技术栈
 >
-> 技术讨论群添加微信：mindcarver
+> From：mindcarver
+>  Based on  mindcarver's work
 
 
 
